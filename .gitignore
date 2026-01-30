@@ -15,3 +15,6 @@ typechain-types/
 
 # debug
 npm-debug.log*
+
+# Claude files
+.claude/
